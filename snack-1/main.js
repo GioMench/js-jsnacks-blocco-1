@@ -18,6 +18,6 @@ for (let i = 0; i < numberList.length; i++) {
 
    const largest = (firstNumber > secondNumber) ? firstNumber : secondNumber;
    console.log(largest);
-
     
 }
+//loop for determine the lar
