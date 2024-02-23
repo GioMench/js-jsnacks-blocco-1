@@ -17,7 +17,10 @@ numberList.push(secondNumber);
 for (let i = 0; i < numberList.length; i++) {
 
    const largest = (firstNumber > secondNumber) ? firstNumber : secondNumber;
-   console.log(largest);
+   //condition for determine if fistNumber is largest than secondNumber
+  
     
 }
-//loop for determine the lar
+//loop for determine the largest number to stamp
+ console.log(largest);
+   //stamp in console the result 
