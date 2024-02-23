@@ -1,6 +1,16 @@
 /*L’utente inserisce due numeri in successione, con due prompt.
 Il software stampa il maggiore.  */
 
+/*Tools
+- const/let
+- prompt
+- array
+- for
+- if/else
+- console.log
+*/
+
+
 
 const firstNumber = prompt('inserisci un numero');
 
