@@ -21,17 +21,19 @@ myArray = [];
 }*/
 
 let i = 0
-while(i < 6){
-   let userNumb = prompt('inserisci un numero');
+while (i < 6) {
+
+    let userNumb = prompt('inserisci un numero');
     let theNumb = Number(userNumb);
 
-    if (theNumb%2 == 1) {
+    if (theNumb % 2 == 1) {
 
         myArray.push(theNumb)
-        console.log(myArray);
-        
+
+
     }
-    
+
     i++
 
 }
+console.log(myArray);
